@@ -34,7 +34,7 @@ This Python project generates and solves a maze using recursion and depth-first 
 
 1️⃣ Clone the Repository
 ```
-git clone https://github.com/YOUR-USERNAME/maze-solver.git
+git clone https://github.com/WarrenPaschetto/maze-solver.git
 cd maze-solver
 ```
 2️⃣ Install Dependencies
