@@ -50,8 +50,8 @@ This will generate and solve a maze in a pop-up window.
 ## 🛠️ Customization
 Modify the following parameters in main.py:
 ```
-win = Window(1000, 1000)  # Window size
-m = Maze(10, 10, 10, 10, 40, 40, win, 10)  # Maze properties
+win = Window(800, 600)  # Window size
+m = Maze(x1=10, y1=10, num_rows=10, num_cols=10, cell_size_x=40, cell_size_y=40, win, seed=10)  # Maze properties
 ```
 - Maze size: Adjust num_rows and num_cols
 - Cell size: Modify cell_size_x and cell_size_y
