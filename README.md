@@ -64,9 +64,9 @@ python -m unittest tests.py
 ```
 
 ## 🎯 To-Do & Future Improvements
-- [] Add a GUI button to regenerate the maze dynamically.
-- [] Implement different maze-solving algorithms (e.g., BFS, A*).
-- [] Allow user interaction to solve the maze manually.
+- [ ] Add a GUI button to regenerate the maze dynamically.
+- [ ] Implement different maze-solving algorithms (e.g., BFS, A*).
+- [ ] Allow user interaction to solve the maze manually.
 
 ## 🤝 Contributing
 Feel free to fork the repository, create feature branches, and submit pull requests.
