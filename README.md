@@ -3,6 +3,13 @@
 ## 📌 Description
 This Python project generates and solves a maze using recursion and depth-first search (DFS). The maze is displayed in a graphical window using Tkinter and can be visually solved by the program.
 
+
+
+![maze](https://github.com/user-attachments/assets/4a81344b-ec38-487d-b60a-6fd01d257fa0)
+
+
+
+
 ## 🚀 Features
 - **Maze Generation**: Creates a random maze of any size.
 - **Recursive Backtracking**: Uses depth-first search (DFS) to generate and solve the maze.
